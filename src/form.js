@@ -14,7 +14,7 @@ const Form = () => {
         <body>
             <div className="flex min-w-screen min-h-screen justify-center items-center bg-light-grey">
                 <div className="w-1, m-1, xl: w-3/5, lg:w-4/6">
-                    <form className="flex bg-white shadow-lg lg:rounded-md px-10 pt-8 pb-6 mb-4">
+                    <form className="flex bg-white shadow-lg lg:rounded-md px-10 pt-8 pb-6 mb-4 mt-2">
                         <div className="hidden left lg:flex flex-1">
                             <div className="flex flex-1 justify-center items-center">
                             <img src={require('./jit_logo.png')} />
